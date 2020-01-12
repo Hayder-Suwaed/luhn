@@ -1,9 +1,6 @@
 # node-luhn
 
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Test coverage][coveralls-image]][coveralls-url]
-[![js-standard-style][standard-image]][standard-url]
+The Luhn Algorithm is used to validate various identitifcation numbers, such as credit card numbers and social insurance numbers.
 
 A [Luhn (mod 10) algorithm](http://en.wikipedia.org/wiki/Luhn_algorithm) module for credit card number validation.
 
