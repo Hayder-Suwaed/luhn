@@ -3,7 +3,7 @@ var test = require('tape')
 
 test('should return true for a valid credit card number', function (t) {
   var expected = true
-  var cc = isLuhn('4111111111111111')
+  var cc = isLuhn('4441111111111114')
   t.equal(cc, expected)
   t.end()
 })
